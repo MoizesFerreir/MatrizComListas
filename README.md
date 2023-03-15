@@ -6,6 +6,7 @@ No final mostrei a matriz completa com o valores e na formatação correta.
 <br/>
 
 ## Programa em funcionamento:
-Loading...
+![2023-03-14 (2)](https://user-images.githubusercontent.com/91918988/225188627-b8fa1a09-31e4-4ead-adca-860505d6b976.png)
+
 
 
